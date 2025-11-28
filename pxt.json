@@ -1,6 +1,6 @@
 {
   "name": "MPU6050",
   "version": "1.1.0",
-  "description": "",
+  "description": "An extension for basic MPU6050 operations",
   "files": ["main.ts"]
 }
