@@ -1,5 +1,5 @@
 {
-  "name": "mpu6050",
+  "name": "MPU6050 Extension",
   "version": "1.1.0",
   "description": "An extension for basic MPU6050 operations",
   "files": [
